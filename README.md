@@ -32,3 +32,7 @@ The website aims to:
 - **Shon Sojan:** Designer & Developer
 - **Joyal Gregory:** Developer
 - **Shiyon Biju Varghese:** Designer
+
+## License
+
+This project is licensed under the MIT License.
