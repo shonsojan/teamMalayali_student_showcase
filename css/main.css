@@ -1,0 +1,439 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  font-family: "Fustat", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+
+a {
+  text-decoration: none;
+}
+
+section {
+  width: 100%;
+}
+
+/* HEADER */
+
+.sticky {
+  position: fixed;
+  top: 0;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  background-color: #e2231a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 5;
+  padding: 20px 10px 0 35px;
+  margin-bottom: 12px;
+}
+
+#logo {
+  width: 180px;
+}
+
+nav {
+  width: 100%;
+  font-size: 130%;
+  font-weight: 600;
+  display: flex;
+  justify-content: right;
+  font-size: 19px;
+  align-items: center;
+  padding: 15px 20px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  color: white;
+  padding-right: 100px;
+}
+
+nav ul li a:hover {
+  color: black;
+}
+
+/* MAIN */
+
+#hero-img {
+  margin-top: 99px;
+  width: 100%;
+}
+
+#welcome {
+  margin: 1rem 0 3.5rem 0;
+}
+
+#welcome h2 {
+  text-align: center;
+  font-size: 45px;
+  line-height: 45px;
+}
+
+#welcome h2 span {
+  font-weight: 400;
+  font-size: 35px;
+  color: #e2231a;
+}
+#para1 {
+  align-content: center;
+  font-size: 120%;
+  line-height: 160%;
+}
+
+#para2 {
+  align-content: center;
+  font-size: 120%;
+  line-height: 160%;
+  text-align: right;
+}
+
+#section-1 {
+  margin: 20px 0 90px 0;
+}
+
+/* .sub {
+  text-align: center;
+} */
+
+h3 {
+  font-size: 22px;
+  font-weight: 800;
+}
+.sub p {
+  font-size: 25px;
+  font-weight: 700;
+  color: #e2231a;
+}
+
+#schedule {
+  margin: 50px 0;
+}
+
+/* EVENT SCHEDULE */
+
+.grey {
+  background-color: #f0f0f0;
+  border-radius: 18px;
+  margin: 30px 0;
+  padding: 0 40px;
+  text-align: center;
+  font-size: 20px;
+  align-content: center;
+}
+
+.grey:hover {
+  background-color: #000000;
+}
+
+.grey:hover p {
+  color: #ffffff;
+}
+
+#schedule .grey {
+  height: 92%;
+}
+
+.grey h3 {
+  color: #e2231a;
+  line-height: 125%;
+}
+
+.grey p span {
+  font-weight: 700;
+}
+
+/* VIDEO PLAYER */
+:root {
+  --plyr-color-main: rgb(228, 228, 228);
+  --plyr-control-icon-size: 25px;
+  --plyr-control-radius: 13px;
+  --plyr-font-family: Helvetica, Arial, sans-serif;
+  --plyr-control-spacing: 1.8%;
+  --plyr-video-control-color: #e2231a;
+  --plyr-video-controls-background: linear-gradient(
+    rgba(0, 0, 0, 0),
+    rgba(226, 226, 226, 0.75)
+  );
+  --plyr-video-control-color-hover: #e2231a;
+}
+
+.idp {
+  margin: 70px 0 40px 0;
+  font-size: 25px;
+  text-align: center;
+  align-content: center;
+}
+
+.idp h2 {
+  font-weight: 350;
+}
+
+/* BUTTONS */
+
+#back {
+  background-color: #f0f0f0;
+  margin: 70px 0;
+  padding-bottom: 80px;
+}
+
+#center {
+  text-align: center;
+}
+
+.white-button {
+  background-color: #ffffff;
+  border: none;
+  border-radius: 12px;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  margin-top: 24px;
+}
+
+.white-button:hover {
+  background-color: #e2231a;
+  color: #ffffff;
+}
+
+.red-button {
+  background-color: #e2231a;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  margin-top: 24px;
+}
+
+.red-button:hover {
+  background-color: #000000;
+}
+
+#portfolio h2 {
+  color: #e2231a;
+  font-weight: 350;
+  font-size: 30px;
+  margin: 70px 0 30px 0;
+}
+
+#team h2 {
+  color: #000000;
+  font-weight: 350;
+  font-size: 30px;
+  margin: 100px 0 30px 0;
+}
+#center .red-button {
+  margin: 0 100px;
+}
+
+#idp img {
+  height: 100%;
+}
+
+#image2 {
+  /* margin-top: -305px; */
+  margin-top: -62%;
+}
+
+#test {
+  margin-bottom: 75px;
+}
+
+.test {
+  background-color: #f0f0f0;
+  border-radius: 18px;
+  margin: 30px 0;
+  padding: 0 40px;
+  height: 95%;
+  text-align: center;
+  font-size: 100%;
+  align-content: center;
+}
+
+.test p {
+  text-align: left;
+}
+
+.test p span {
+  color: #e2231a;
+  font-weight: 800;
+}
+
+.test1 {
+  float: right;
+}
+
+/* CONTACT */
+
+/* #contact {
+  padding: 40px 0;
+} */
+
+#contact h2 {
+  color: #e2231a;
+  font-weight: 350;
+  font-size: 180%;
+  padding-bottom: 30px;
+}
+
+#back2 {
+  background-color: #f0f0f0;
+  padding: 50px 0;
+}
+input[type="text"] {
+  width: 100%;
+  margin: 7px 0 20px 0;
+  padding: 10px 20px;
+  border: none;
+}
+
+#message[type="text"] {
+  padding: 50px 20px;
+}
+
+#address {
+  text-align: center;
+  padding: 40px;
+}
+
+#media {
+  width: 35px;
+  display: flex;
+  margin-left: 27%;
+}
+
+#media img {
+  margin: 0 20px;
+}
+
+/* --- FOOTER --- */
+
+footer {
+  background-color: #e2231a;
+  color: white;
+  padding-bottom: 40px;
+}
+
+#end {
+  width: 150px;
+  font-size: 100%;
+  text-align: center;
+  margin: 45px auto 10px auto;
+}
+
+/* HAMBURGER MENU */
+
+.hamburger {
+  background: none;
+  border: none;
+  cursor: pointer;
+  z-index: 10;
+  display: none;
+}
+
+.bar {
+  display: block;
+  width: 35px;
+  height: 4px;
+  border-radius: 12px;
+  margin: 7px auto;
+  background-color: white;
+  transition: all 0.2s ease;
+}
+
+.hamburger:hover .bar {
+  background-color: #000000;
+}
+
+.nav-menu {
+  display: flex;
+  margin: 25px 0;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  padding: 0 0 0 15px;
+}
+
+.nav-list li {
+  margin: 0 15px;
+}
+
+.nav-list a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-list a:hover {
+  color: #000000;
+}
+
+@media (max-width: 1200px) {
+  .hamburger {
+    display: block;
+  }
+
+  .nav-menu {
+    display: none;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color: #e02726;
+    padding: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    flex-direction: column;
+  }
+
+  .nav-menu.active {
+    display: flex;
+  }
+
+  .nav-list {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav-list li {
+    margin: 10px 0;
+  }
+}
+
+.hamburger.active .bar:nth-child(1) {
+  transform: translateY(10.5px) rotate(45deg);
+}
+
+.hamburger.active .bar:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger.active .bar:nth-child(3) {
+  transform: translateY(-10.5px) rotate(-45deg);
+}

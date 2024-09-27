@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_47" data-name="Rectangle 47" width="30" height="30" transform="translate(1015 7366)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(-1015 -7366)" clip-path="url(#clip-path)">
+    <g id="SVGRepo_iconCarrier" transform="translate(1022.5 7366)">
+      <g id="Page-1">
+        <g id="Dribbble-Light-Preview">
+          <g id="icons">
+            <path id="facebook-_176_" data-name="facebook-[#176]" d="M1161.731,25366.5V25353h4.1l.669-6h-4.769v-2.926c0-1.543.041-3.074,2.2-3.074h2.187v-4.289a24.707,24.707,0,0,0-3.778-.211c-3.969,0-6.454,2.49-6.454,7.051V25347H1151.5v6h4.385v13.5Z" transform="translate(-1151.5 -25336.5)" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_46" data-name="Rectangle 46" width="30" height="30" transform="translate(915 7366)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(-915 -7366)" clip-path="url(#clip-path)">
+    <g id="Page-1" transform="translate(915 7370.496)">
+      <g id="Dribbble-Light-Preview" transform="translate(0 0)">
+        <g id="icons">
+          <path id="youtube-_168_" data-name="youtube-[#168]" d="M865.995,25501.75v-8.43c2.99,1.41,5.3,2.773,8.04,4.23-2.258,1.258-5.051,2.654-8.04,4.2m16.655-12.615a3.931,3.931,0,0,0-2.33-1.381c-2.75-.523-19.9-.523-22.649,0a3.976,3.976,0,0,0-1.992,1.006c-2.417,2.25-1.659,14.279-1.077,16.23a4.377,4.377,0,0,0,.961,1.861,3.889,3.889,0,0,0,2.025,1.047c2.264.467,13.926.738,22.683.078a4.009,4.009,0,0,0,2.085-1.082c2.235-2.234,2.082-14.939.292-17.76" transform="translate(-854.013 -25487.361)" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
