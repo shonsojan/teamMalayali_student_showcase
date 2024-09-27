@@ -1,4 +1,4 @@
-# teamMalayali_student_showcase - Industry Night Event Portfolio Website
+# Industry Night Event Portfolio Website
 
 ## Project Overview
 
@@ -14,21 +14,21 @@ The website aims to:
 
 ## Project Features
 
-- Responsive Design: Mobile-first approach with a responsive layout from mobile to desktop.
-- Mobile Menu: A mobile-specific menu with a transition/animation effect using CSS & JavaScript.
-- Event Information: Displays details about the Industry Night event, including date, time, and location.
-- Interactive Media Design Program: Includes information about the IDP program at Fanshawe College and a link to the official IDP page.
-- Video Player: A functional video player promoting the event and the IDP program.
+- **Responsive Design:** Mobile-first approach with a responsive layout from mobile to desktop.
+- **Mobile Menu:** A mobile-specific menu with a transition/animation effect using CSS & JavaScript.
+- **Event Information:** Displays details about the Industry Night event, including date, time, and location.
+- **Interactive Media Design Program:** Includes information about the IDP program at Fanshawe College and a link to the official IDP page.
+- **Video Player:** A functional video player promoting the event and the IDP program.
 
 ## Technology Stack
 
-- HTML5: Structure of the web pages.
-- CSS3: For styling and layout, including responsive design and animations.
-- JavaScript: For interactivity and mobile menu transitions.
+- **HTML5:** Structure of the web pages.
+- **CSS3:** For styling and layout, including responsive design and animations.
+- **JavaScript:** For interactivity and mobile menu transitions.
 
 ## Team Members
 
-- Rebin Reji Vazhavilayil: Project Manager
-- Shon Sojan: Designer & Developer
-- Joyal Gregory: Developer
-- Shiyon Biju Varghese: Designer
+- **Rebin Reji Vazhavilayil:** Project Manager
+- **Shon Sojan:** Designer & Developer
+- **Joyal Gregory:** Developer
+- **Shiyon Biju Varghese:** Designer
