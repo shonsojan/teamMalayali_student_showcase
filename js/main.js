@@ -8,3 +8,26 @@ function toggleActiveClass() {
 }
 
 hamburger.addEventListener("click", toggleActiveClass);
+
+const portfolios = [
+  { name: "Student 1", portfolioLink: "#" },
+  { name: "Student 2", portfolioLink: "#" },
+  { name: "Student 3", portfolioLink: "#" },
+  { name: "Student 4", portfolioLink: "#" },
+  { name: "Student 5", portfolioLink: "#" },
+  { name: "Student 6", portfolioLink: "#" },
+  { name: "Student 7", portfolioLink: "#" },
+  { name: "Student 8", portfolioLink: "#" },
+  { name: "Student 9", portfolioLink: "#" },
+  { name: "Student 10", portfolioLink: "#" },
+  { name: "Student 11", portfolioLink: "#" },
+  { name: "Student 12", portfolioLink: "#" },
+  { name: "Student 13", portfolioLink: "#" },
+  { name: "Student 14", portfolioLink: "#" },
+  { name: "Student 15", portfolioLink: "#" },
+  { name: "Student 16", portfolioLink: "#" },
+  { name: "Student 17", portfolioLink: "#" },
+  { name: "Student 18", portfolioLink: "#" },
+  { name: "Student 19", portfolioLink: "#" },
+  { name: "Student 20", portfolioLink: "#" },
+];

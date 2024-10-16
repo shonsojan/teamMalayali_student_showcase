@@ -79,6 +79,30 @@ nav ul li a:hover {
 #hero-img {
   margin-top: 99px;
   width: 100%;
+  animation: fadeInAnimation ease 2s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+  animation-name: slide-right;
+}
+
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-right {
+  from {
+    margin-left: 110%;
+  }
+
+  to {
+    margin-left: 0%;
+  }
 }
 
 #welcome {
@@ -89,6 +113,9 @@ nav ul li a:hover {
   text-align: center;
   font-size: 45px;
   line-height: 45px;
+  animation: fadeInAnimation ease 3s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
 }
 
 #welcome h2 span {
@@ -125,6 +152,10 @@ h3 {
   font-size: 25px;
   font-weight: 700;
   color: #e2231a;
+}
+
+.sub a p:hover {
+  color: black;
 }
 
 #schedule {
@@ -259,7 +290,7 @@ h3 {
 
 #image2 {
   /* margin-top: -305px; */
-  margin-top: -62%;
+  margin-top: -67%;
 }
 
 #test {
@@ -321,6 +352,8 @@ input[type="text"] {
 #address {
   text-align: center;
   padding: 40px;
+  margin-left: 27%;
+  font-size: larger;
 }
 
 #media {
