@@ -8,8 +8,11 @@ function toggleActiveClass() {
 }
 
 hamburger.addEventListener("click", toggleActiveClass);
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> 154e2437f7746383192f1b97d81c2a8463c906a0
 
 const portfolios = [
   { name: "Student 1", portfolioLink: "#" },
@@ -33,6 +36,7 @@ const portfolios = [
   { name: "Student 19", portfolioLink: "#" },
   { name: "Student 20", portfolioLink: "#" },
 ];
+<<<<<<< HEAD
 
 const testimonials = [
   {
@@ -55,3 +59,5 @@ const testimonials = [
   },
 ];
 >>>>>>> Stashed changes
+=======
+>>>>>>> 154e2437f7746383192f1b97d81c2a8463c906a0
