@@ -8,6 +8,11 @@ function toggleActiveClass() {
 }
 
 hamburger.addEventListener("click", toggleActiveClass);
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> 154e2437f7746383192f1b97d81c2a8463c906a0
 
 const portfolios = [
   { name: "Student 1", portfolioLink: "#" },
@@ -31,3 +36,28 @@ const portfolios = [
   { name: "Student 19", portfolioLink: "#" },
   { name: "Student 20", portfolioLink: "#" },
 ];
+<<<<<<< HEAD
+
+const testimonials = [
+  {
+    quote:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    name: "Batman",
+    role: "Prince od Darkness",
+  },
+  {
+    quote:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    name: "Batman",
+    role: "Prince od Darkness",
+  },
+  {
+    quote:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    name: "Batman",
+    role: "Prince od Darkness",
+  },
+];
+>>>>>>> Stashed changes
+=======
+>>>>>>> 154e2437f7746383192f1b97d81c2a8463c906a0
